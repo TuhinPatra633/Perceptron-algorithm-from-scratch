@@ -8,7 +8,7 @@ The Perceptron algorithm is a fundamental supervised learning algorithm used for
 
 ## Dataset
 
-We utilized a labeled dataset for training and testing the Perceptron algorithm. The dataset is not included in this repository but can be easily substituted with your own dataset.
+We utilized a labeled dataset for training and testing the Perceptron algorithm. The dataset is included in this repository but can be easily substituted with your own dataset.
 
 ## Implementation
 
